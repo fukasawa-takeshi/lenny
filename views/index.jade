@@ -1,0 +1,14 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+  p(id='gps')
+  script(type='text/javascript', src='http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js')
+  script(type='text/javascript')
+    navigator.geolocation.watchPosition(function(location){
+      var latitude = location.coords.latitude;
+      var longitude = location.coords.longitude;
+      var accuracy = location.coords.accuracy;
+      $("#gps").text(latitude + " : " + longitude + " : " + accuracy);
+    });

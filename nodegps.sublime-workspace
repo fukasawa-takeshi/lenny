@@ -1,0 +1,1219 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lo",
+				"longitude"
+			],
+			[
+				"mode",
+				"model"
+			],
+			[
+				"ma",
+				"maxlength"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"get",
+				"getInfo"
+			],
+			[
+				"C",
+				"Custom"
+			],
+			[
+				"ser",
+				"service"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"user",
+				"UserCollection"
+			],
+			[
+				"is",
+				"isValid"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"st",
+				"style	<style>"
+			],
+			[
+				"at",
+				"attr"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"Ro",
+				"Role"
+			],
+			[
+				"ra",
+				"rankingList"
+			],
+			[
+				"content",
+				"contentList"
+			],
+			[
+				"mess",
+				"messagecode"
+			],
+			[
+				"show",
+				"showError"
+			],
+			[
+				"showA",
+				"showAlertError"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"messa",
+				"messagecode"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"an",
+				"anchorId"
+			],
+			[
+				"T",
+				"TSUTAYA  (variable)"
+			],
+			[
+				"Ser",
+				"ServiceCategory"
+			],
+			[
+				"Password",
+				"PasswordModel"
+			],
+			[
+				"mo",
+				"model"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"to",
+				"totalPage"
+			],
+			[
+				"tota",
+				"totalCount"
+			],
+			[
+				"inpu",
+				"input	input - submit"
+			],
+			[
+				"h",
+				"html	html"
+			],
+			[
+				"serv",
+				"serviceList"
+			],
+			[
+				"fie",
+				"fileid"
+			],
+			[
+				"ty",
+				"typeToContentpurpose"
+			],
+			[
+				"contentpurpose",
+				"contentpurposeToType"
+			],
+			[
+				"conte",
+				"contentpurposeToType"
+			],
+			[
+				"te",
+				"term"
+			],
+			[
+				"ha",
+				"handler"
+			],
+			[
+				"nav_",
+				"nav_cassette"
+			],
+			[
+				"が表示されているか",
+				"が表示されているか"
+			],
+			[
+				"ass",
+				"assert_equal"
+			],
+			[
+				"conten",
+				"contentenddatepublished"
+			],
+			[
+				"find",
+				"find_element"
+			],
+			[
+				"image",
+				"image1Err"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"lin",
+				"links"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"menu",
+				"menuTab"
+			],
+			[
+				"re",
+				"rectable_b"
+			],
+			[
+				"ba",
+				"basic_type_b"
+			],
+			[
+				"sub",
+				"subtitle"
+			],
+			[
+				"setup_cassette_",
+				"setup_cassette_input"
+			],
+			[
+				"sele",
+				"selectedContent"
+			],
+			[
+				"set",
+				"setup_cassette"
+			],
+			[
+				"con",
+				"contentenddatepublished"
+			],
+			[
+				"im",
+				"imgname"
+			],
+			[
+				"eac",
+				"each"
+			],
+			[
+				"rec",
+				"rectable2_tds"
+			],
+			[
+				"setup_",
+				"setup_cassette"
+			],
+			[
+				"c",
+				"class"
+			],
+			[
+				"fil",
+				"filter"
+			],
+			[
+				"ta",
+				"tag_name"
+			],
+			[
+				"S",
+				"SleepSecond"
+			],
+			[
+				"up",
+				"uploadfileErr"
+			],
+			[
+				"INPU",
+				"input	Tag"
+			],
+			[
+				"FOR",
+				"form	Tag"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"page_",
+				"page_tr1_tds"
+			],
+			[
+				"delete",
+				"delete_index0"
+			],
+			[
+				"page",
+				"page_trs"
+			],
+			[
+				"fi",
+				"find_elements"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"ne",
+				"next_btn"
+			],
+			[
+				"f",
+				"find_elements"
+			],
+			[
+				"cu",
+				"current_page"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"max",
+				"maxRowCount"
+			],
+			[
+				"opt",
+				"options"
+			],
+			[
+				"test_",
+				"test_page"
+			],
+			[
+				"ae",
+				"ase	assert_equal(..)"
+			],
+			[
+				"fin",
+				"find_element"
+			],
+			[
+				"na",
+				"nav_page"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"param",
+				"params"
+			],
+			[
+				"ur",
+				"url_prefix"
+			],
+			[
+				"a",
+				"attributes"
+			],
+			[
+				"New",
+				"NewsModel"
+			],
+			[
+				"last",
+				"lastIndexOf"
+			],
+			[
+				"att",
+				"attribute"
+			],
+			[
+				"News",
+				"NewsModel"
+			],
+			[
+				"d",
+				"dir"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"Ani",
+				"AnimalView"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "views/layout.jade",
+			"settings":
+			{
+				"buffer_size": 121,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/index.jade",
+			"settings":
+			{
+				"buffer_size": 499,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/js.jade",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/index.coffee",
+			"settings":
+			{
+				"buffer_size": 115,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app.coffee",
+			"settings":
+			{
+				"buffer_size": 758,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Cakefile",
+			"settings":
+			{
+				"buffer_size": 323,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/CoffeeScript/CoffeeScript.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"update",
+				"SVN: Update"
+			],
+			[
+				"diff",
+				"SVN: Diff"
+			],
+			[
+				"commi",
+				"SVN: Commit…"
+			],
+			[
+				"comm",
+				"SVN: Commit…"
+			],
+			[
+				"com",
+				"SVN: Commit…"
+			],
+			[
+				"co",
+				"SVN: Commit…"
+			],
+			[
+				"commit",
+				"SVN: Commit…"
+			],
+			[
+				"clean",
+				"SVN: Cleanup"
+			],
+			[
+				"commt",
+				"SVN: Commit…"
+			],
+			[
+				"comit",
+				"SVN: Commit…"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"comm	",
+				"SVN: Commit…"
+			],
+			[
+				"diff re",
+				"SVN: Diff, Remote"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"UPDATE",
+				"SVN: Update"
+			],
+			[
+				"alert",
+				"Tag: Remove All Attributes From Tags in Document"
+			],
+			[
+				"log",
+				"SVN: Log"
+			],
+			[
+				"svn: upda",
+				"SVN: (Folder) Update"
+			],
+			[
+				"upda",
+				"SVN: Update"
+			],
+			[
+				"svn",
+				"SVN: Info"
+			],
+			[
+				"up",
+				"SVN: Update"
+			],
+			[
+				"sc",
+				"SVN: Checkout…"
+			],
+			[
+				"s",
+				"SVN: Commit…"
+			],
+			[
+				"svn comm",
+				"SVN: Commit…"
+			],
+			[
+				"sv",
+				"SVN: Commit…"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"svn: comm",
+				"SVN: Commit…"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Backbone Collection"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/HI00003/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/HI00003/apps/nodegps/app.coffee",
+		"/Users/HI00003/apps/nodegps/routes/index.js",
+		"/Users/HI00003/apps/nodegps/views/js.jade",
+		"/Users/HI00003/apps/nodegps/views/index.jade",
+		"/Users/HI00003/apps/nodegps/views/layout.jade",
+		"/Users/HI00003/project/leocms/cms/js/login.js",
+		"/Users/HI00003/project/leocms/cms/js/header.js",
+		"/Users/HI00003/project/leocms/cms/js/layout/main.js",
+		"/Users/HI00003/project/leocms/cms/js/layout/model.js",
+		"/Users/HI00003/project/leocms/cms/views/layout/index.html",
+		"/Users/HI00003/project/leocms/cms/js/common.js",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1348034330/SVN",
+		"/Users/HI00003/project/leocms/cms/js/layout/layoutlist.js",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1348034375/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347968112/SVN",
+		"/Users/HI00003/project/leocms/cms/views/terms/tpl/TermsView.html",
+		"/Users/HI00003/project/leocms/cms/views/user/tpl/UserView.html",
+		"/Users/HI00003/project/leocms/cms/js/help/help.js",
+		"/Users/HI00003/project/leocms/cms/views/notice/tpl/NoticeListView.html",
+		"/Users/HI00003/project/leocms/cms/js/layout/layoutedit.js",
+		"/Users/HI00003/project/leocms/cms/tpl/SideMenuView.html",
+		"/Users/HI00003/project/leocms/cms/js/help/model.js",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347960396/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347924534/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347898210/SVN",
+		"/Users/HI00003/project/leocms/cms/views/service/tpl/ServiceView.html",
+		"/Users/HI00003/project/leocms/cms/views/scratch/tpl/ScratchView.html",
+		"/Users/HI00003/project/leocms/cms/views/perks/tpl/PerksView.html",
+		"/Users/HI00003/project/leocms/cms/views/notice/tpl/NoticeView.html",
+		"/Users/HI00003/project/leocms/cms/views/help/tpl/HelpView.html",
+		"/Users/HI00003/project/leocms/cms/tpl/PasswordView.html",
+		"/Users/HI00003/project/leocms/cms/js/notice/model.js",
+		"/Users/HI00003/project/leocms/cms/js/help/main.js",
+		"/Users/HI00003/project/leocms/cms/js/notice/main.js",
+		"/Users/HI00003/project/leocms/cms/js/notice/noticelist.js",
+		"/Users/HI00003/project/leocms/cms/js/notice/notice.js",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347712307/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347711790/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347692873/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347684688/SVN",
+		"/Users/HI00003/project/leocms/cms/tpl/LoginView.html",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347684353/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347631589/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347614470/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347610756/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347610735/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347610715/SVN",
+		"/Users/HI00003/project/leocms/cms/css/style.css",
+		"/Users/HI00003/project/leocms/cms/views/stats/index.html",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347601437/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347601509/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347601659/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347601584/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347601544/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347601244/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347601202/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347600997/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347601158/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347600954/SVN",
+		"/Users/HI00003/project/leocms/cms/js/user/user.js",
+		"/Users/HI00003/project/leocms/cms/js/user/main.js",
+		"/Users/HI00003/project/leocms/cms/views/scratch/tpl/ScratchResultView.html",
+		"/Users/HI00003/project/leocms/cms/js/scratch/main.js",
+		"/Users/HI00003/project/leocms/cms/js/cassette/basictype-c.js",
+		"/Users/HI00003/project/leocms/cms/js/cassette/basictype-e.js",
+		"/Users/HI00003/project/leocms/cms/js/page/pagelist.js",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347600219/SVN",
+		"/Users/HI00003/project/leocms/cms/js/backbone.custom.js",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347599891/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347599055/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347590659/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347547934/SVN",
+		"/Users/HI00003/project/leocms/cms/js/user/model.js",
+		"/Users/HI00003/project/leocms/cms/tpl/HeaderView.html",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347547211/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347542884/SVN",
+		"/Users/HI00003/project/leocms/cms/index.html",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347544186/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347542899/SVN",
+		"/Users/HI00003/project/leocms/cms/js/layout/layoutadd.js",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347541059/SVN",
+		"/Users/HI00003/project/leocms/cms/js/user/userlist.js",
+		"/Users/HI00003/project/leocms/cms/js/page/pageupload.js",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347519944/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347519717/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347519711/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347519571/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347519538/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347519557/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347518003/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347517978/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347517867/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347514121/SVN",
+		"/Users/HI00003/project/leocms/cms/js/sidemenu.js",
+		"/Users/HI00003/project/leocms/cms/js/cassette/basictype-b.js",
+		"/Users/HI00003/project/leocms/cms/views/member/tpl/MemberView.html",
+		"/Users/HI00003/project/leocms/cms/views/cassette/tpl/CassetteView.html",
+		"/Users/HI00003/project/leocms/cms/views/cassette/tpl/BasicTypeAView.html",
+		"/Users/HI00003/project/leocms/cms/views/cassette/components/basic_type_a.html",
+		"/Users/HI00003/project/leocms/cms/js/scratch/<LEONET><RESULTINFORMATION><STATUS>OK<:STATUS><MES",
+		"/Users/HI00003/project/leocms/cms/js/scratch/model.js",
+		"/Users/HI00003/project/leocms/cms/js/scratch/scratch.js",
+		"/Users/HI00003/project/leocms/cms/views/cassette/tpl/BasicTypeDView.html",
+		"/Users/HI00003/project/leocms/cms/js/cassette/model.js",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347458740/SVN",
+		"/Users/HI00003/project/leocms/cms/js/ranking/main.js",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347453460/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347453405/SVN",
+		"/Users/HI00003/project/leocms/cms/js/ranking/model.js",
+		"/Users/HI00003/project/leocms/cms/views/ranking/tpl/RankingUploadView.html",
+		"/Users/HI00003/project/leocms/cms/js/ranking/rankingupload.js",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347451386/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347447690/SVN",
+		"/Users/HI00003/project/leocms/cms/views/user/tpl/UserListView.html",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347447751/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347447717/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347442164/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347442151/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347442071/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347438817/SVN",
+		"/Users/HI00003/project/leocms/cms/js/password.js",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347438562/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347438535/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347438485/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347438445/SVN",
+		"/var/folders/62/lg6g4gbn2n713q4gz4g269dr0000gn/T/sublime-svn-1347438427/SVN",
+		"/Users/HI00003/project/leocms/cms/js/page/model.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"*.html, *.js",
+			"*.html",
+			"*.js, *.html,  *.css",
+			"*.js, *.html",
+			"*.js",
+			"*.js,/Users/HI00003/project/leocms/cms/js/ranking",
+			"*.js",
+			"*",
+			"*.rb",
+			"*.html, *.js",
+			"*.html",
+			"*.js",
+			"*.html",
+			"*.js",
+			"*.html",
+			"*.js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"title",
+			"setError",
+			"serviceC",
+			"serviceColl",
+			"parseModelInfo",
+			"metaData",
+			"HtmlLayoutModel",
+			"_htmlLayoutModel",
+			"alert",
+			"NG",
+			"verifyAppError",
+			"is",
+			"には",
+			"にはレイアウト情報がありません。\nには",
+			"style=\"display: inline\"",
+			"status",
+			"purchase_history",
+			"firstBlock",
+			"layout_table",
+			"削除",
+			"			<div class=\"form-inline pull-right\">\n削除",
+			"削除",
+			"answerBtn",
+			"answerregmethod",
+			"help",
+			"answerregmethod",
+			"noticekind",
+			"model",
+			"notice",
+			"notificat",
+			"span",
+			"div",
+			"コード値",
+			"コード",
+			"コード値",
+			"koード",
+			"<<",
+			">>",
+			"analy",
+			"google",
+			"goog",
+			"analytics",
+			"html",
+			"削除しました",
+			"Custom",
+			"infoMap",
+			"model.save",
+			"status",
+			"auth",
+			"$.cookie",
+			"servicecategoryid",
+			"user",
+			"User",
+			"user",
+			"model",
+			"---",
+			"\"---\"",
+			"'---'",
+			"---",
+			"cookie",
+			"model",
+			"login_form",
+			"1:Admin",
+			"TOPページ",
+			"TOP",
+			"TOPページ",
+			"サービスTOP",
+			"TOP",
+			"servicecategoryid",
+			"authority",
+			"servicecategoryid",
+			"change",
+			".",
+			"authorityid",
+			"authority",
+			"authorityid",
+			"serviceaffiliation",
+			"authority",
+			"serviceaffiliation",
+			"authority",
+			"authorityid",
+			"serviceaffiliation",
+			"odel.get('authority",
+			"$('.alert')",
+			"servicecategoryid",
+			"フィルタ",
+			"delete",
+			"destroy",
+			"Role",
+			"show",
+			"hide",
+			"よろしい",
+			"削除します",
+			"get",
+			"maxPageCount",
+			"disable",
+			"confirmpassword",
+			"focusout",
+			";\n",
+			"登録しました",
+			"カセット・レクタブル新規追加",
+			"カセット・レクタブル新規追加 ",
+			"カセット・レクタブル新規追加  ",
+			"isNew",
+			"authority",
+			"NOTICEINFO",
+			";\n",
+			"span12",
+			"beforeSave",
+			"save",
+			"confirmpassword",
+			"validators",
+			"validation",
+			"        \n",
+			"change",
+			"bew",
+			"isNew",
+			"fetc",
+			"fetch｛",
+			"fetch",
+			"category",
+			"UserView",
+			"category",
+			"detail",
+			"Ranking",
+			"ranking",
+			"category",
+			"Role.ADMIN"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"parseCollectionInfo",
+			"ServiceCategory.ONLINE_SHOPPING",
+			"ServiceCategory.CS_CHANNEL",
+			"ServiceCategory.TSUTAYA",
+			"ServiceCategory.TOP",
+			"hide",
+			"servicecategoryid",
+			"publishedflg",
+			"UserAttr",
+			"servicecategoryid",
+			".attribute(\"value\")",
+			"servicecategoryid",
+			"setup_cassette",
+			"nav_cassette",
+			"setup_cassette",
+			"sleep Const::SleepSecond",
+			"filter",
+			"serviceSelector",
+			"\"",
+			"SleepSecond",
+			"/",
+			"総カウントは22\"",
+			"sleep 0.5",
+			"sleep .5",
+			"sleep 0.5",
+			"有効",
+			"無効",
+			"",
+			"maxCount",
+			"ops",
+			"login_clear_value",
+			".selectMenu('nav_",
+			"<li id=\"nav_"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "views/layout.jade",
+					"settings":
+					{
+						"buffer_size": 121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								114,
+								114
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Jade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "views/index.jade",
+					"settings":
+					{
+						"buffer_size": 499,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								229,
+								229
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Jade.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "views/js.jade",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Jade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "routes/index.coffee",
+					"settings":
+					{
+						"buffer_size": 115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								115,
+								115
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app.coffee",
+					"settings":
+					{
+						"buffer_size": 758,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								198,
+								198
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Cakefile",
+					"settings":
+					{
+						"buffer_size": 323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								323,
+								323
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"sty",
+				"css/style.css"
+			],
+			[
+				"comm",
+				"js/common.js"
+			],
+			[
+				"pass",
+				"js/password.js"
+			],
+			[
+				"ba",
+				"js/backbone.custom.js"
+			],
+			[
+				"common",
+				"js/common.js"
+			],
+			[
+				"layou",
+				"js/layout/layoutedit.js"
+			],
+			[
+				"layoute",
+				"js/layout/layoutedit.js"
+			],
+			[
+				"layouted",
+				"views/layout/tpl/LayoutEditView.html"
+			],
+			[
+				"lo",
+				"js/login.js"
+			],
+			[
+				"bac",
+				"js/backbone.custom.js"
+			],
+			[
+				"rankinglistview",
+				"views/ranking/tpl/RankingListView.html"
+			],
+			[
+				"test_la",
+				"test_layout_list.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true
+}
